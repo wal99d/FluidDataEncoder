@@ -1,6 +1,5 @@
 # One of my experiments to transmit 1-Byte of DATA using Water Pump and Flowmeter
 -
-
 ##Tools Used:
 1. ARDUINO UNO
 2. STM32F4 Discoveryboard
