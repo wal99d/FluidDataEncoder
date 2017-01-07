@@ -26,8 +26,12 @@ for example to send letter "A" you need to convert it into its binary represntat
 
 
 ##How Encoding Works:
+TIM4 is used in STM32F4 to keep record of timeout value, which is very important to keep track of during transmission of both Bit 0 and 1 as show in below specs:
 Bit 0 Encdoing Timing diagram ![alt tag](http://i.imgur.com/xA3C6Cj.png)
 Bit 1 Encoding Timing diagram ![alt tag](http://i.imgur.com/K14GC7u.png)
+
+Also, External interrupt with raising edge was used to keep track of interrupts gereated by Flowmeter readings, for that some varible was used as a counter. 
+
 ##TODOS:
 *Dataflow control mechanisim*
 
