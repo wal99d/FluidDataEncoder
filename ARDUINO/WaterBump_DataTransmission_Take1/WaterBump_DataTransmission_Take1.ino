@@ -12,14 +12,14 @@ void loop() {
   if (switchState == HIGH){
       //We are going to send letter A in binray format as below:
       //01000001
-      generateBitEncoding(0);
+      //generateBitEncoding(0);
       generateBitEncoding(1);
+      /*generateBitEncoding(0);
       generateBitEncoding(0);
       generateBitEncoding(0);
       generateBitEncoding(0);
       generateBitEncoding(0);
-      generateBitEncoding(0);
-      generateBitEncoding(1);
+      generateBitEncoding(1);*/
       
   }else{
     digitalWrite(waterPump, LOW);
