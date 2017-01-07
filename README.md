@@ -7,15 +7,15 @@
 4. Water Flow Sensor Flowmeter Hall Flow Sensor Water control 1-30L/min
 5. UART Cable
 6. MOSFET to control 9v DC switch for Water Pump
-7. DIOE
+7. DIODE
 8. Switch Button
 
-##Circuit diagram:
+##Circuit diagrams:
 ###Transmitter Circuit:
-![alt tag](http://imgur.com/a/FyQQ5)
+![alt tag](http://i.imgur.com/FyQQ5.png)
 
 ###Recievor Circuit:
-![alt tag](http://imgur.com/a/QicCn)
+![alt tag](http://i.imgur.com/QicCn.png)
 
 -
-***inspired by [wal99d](https://www.twitter.com/wal99d)***
+***Posted in HackADay.io ***
