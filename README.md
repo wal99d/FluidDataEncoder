@@ -1,4 +1,5 @@
 # One of my experiments to transmit 1-Byte of DATA using Water Pump and Flowmeter
+-
 
 ##Tools Used:
 1. ARDUINO UNO
@@ -12,10 +13,10 @@
 
 ##Circuit diagrams:
 ###Transmitter Circuit:
-![alt tag](http://i.imgur.com/FyQQ5.png)
+![alt tag](http://i.imgur.com/NUUahlb.png)
 
 ###Recievor Circuit:
 ![alt tag](http://i.imgur.com/JzvgO2Z.png)
 
 -
-***Posted in HackADay.io ***
+***Posted in [HackADay.io](https://hackaday.io/project/19265-fluid-data-encoder-v1)***
