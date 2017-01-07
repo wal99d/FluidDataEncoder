@@ -30,7 +30,7 @@ TIM4 is used in STM32F4 to keep record of timeout value, which is very important
 Bit 0 Encdoing Timing diagram ![alt tag](http://i.imgur.com/xA3C6Cj.png)
 Bit 1 Encoding Timing diagram ![alt tag](http://i.imgur.com/K14GC7u.png)
 
-Also, External interrupt with raising edge was used to keep track of interrupts gereated by Flowmeter readings, for that some varible was used as a counter. 
+Also, External interrupt with raising edge was used to keep track of interrupts gereated by Flowmeter readings, for that some variable was used as a counter to validate the readings as Bit 1 or 0. 
 
 ##TODOS:
 *Dataflow control mechanisim*
