@@ -15,7 +15,7 @@
 ![alt tag](http://i.imgur.com/FyQQ5.png)
 
 ###Recievor Circuit:
-![alt tag](http://i.imgur.com/QicCn.png)
+![alt tag](http://i.imgur.com/JzvgO2Z.png)
 
 -
 ***Posted in HackADay.io ***
