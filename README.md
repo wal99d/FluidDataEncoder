@@ -18,4 +18,4 @@
 ![alt tag](http://imgur.com/a/QicCn)
 
 -
-***inspired by [Gary C. Kessler.](http://www.garykessler.net/library/file_sigs.html)***
+***inspired by [wal99d](https://www.twitter.com/wal99d)***
